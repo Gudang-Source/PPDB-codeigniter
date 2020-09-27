@@ -1,2 +1,2 @@
-# PPDB-laravel
-PPDB sederhana menggunakan php dan framework laravel.
+# PPDB-codeigniter
+PPDB sederhana menggunakan php dan framework codigniter.
